@@ -37,8 +37,6 @@ Hands with five fingers. Text that actually spells. Skin that looks like skin. F
 - **Posters & covers** — with typography that reads correctly
 - **Fill & expand** — extend photos beyond their borders seamlessly
 
-| :---: | :---: |
-
 <div align="center">
 
 ## Download
